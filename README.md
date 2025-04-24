@@ -34,13 +34,13 @@ JavaScript – Functionality (adding/deleting tasks, DOM manipulation)
 
 ## 📂 How to Run the Project
 
-# Clone the repository
+ Clone the repository
 git clone : https://github.com/suhani1005/TODO-list-web
 
-# Navigate to the project directory
+ Navigate to the project directory
 cd todo-list-app
 
-# Open the index.html file in your preferred browser
+ Open the index.html file in your preferred browser
 
 No additional dependencies or installations needed!
 
